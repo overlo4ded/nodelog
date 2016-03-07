@@ -1,0 +1,10 @@
+{
+  "name": "Nodelog.js",
+  "version": "0.1.0",
+  "author": "Overlo4ded (http://www.overlo4ded.com)",
+  "dependencies": {
+  	"bluebird":">=3.3.3",
+  	"dateformat":">=1.0.12"
+  },
+  "engine": "node >= 0.8.x"
+}

@@ -1,0 +1,11 @@
+07/03/2016 15:18:38.930 - [base-test2.js] [info] test 2 info
+07/03/2016 15:18:38.935 - [base-test2.js] [error] test 2 error
+07/03/2016 15:18:38.936 - [base-test.js] [debug] test 1 debug
+07/03/2016 15:18:38.936 - [base-test.js] [warn] test 1 warn
+07/03/2016 15:18:38.937 - [base-test.js] [info] test 1 info
+07/03/2016 15:18:38.937 - [base-test.js] [error] test 1 error
+07/03/2016 15:19:03.185 - [base-test2.js] [error] test 2 error
+07/03/2016 15:19:03.180 - [base-test2.js] [info] test 2 info
+07/03/2016 15:19:03.186 - [base-test.js] [warn] test 1 warn
+07/03/2016 15:19:03.187 - [base-test.js] [error] test 1 error
+07/03/2016 15:19:03.186 - [base-test.js] [info] test 1 info

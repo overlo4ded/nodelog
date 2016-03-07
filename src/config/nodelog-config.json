@@ -1,0 +1,32 @@
+{
+	"appenders":[
+		{
+			"name":"Console",
+			"type":"console",
+			"pattern":"%d - [%n] [%l] %m"		
+		}
+		,{
+			"name":"File",
+			"type":"file",
+			"pattern":"%d - [%n] [%l] %m",
+			"file":"../../logs/logfile.log"
+		}
+	],
+	"listeners":[
+		{
+			"name":"base-test.js",
+			"level":"warn",
+			"appenders":["Console","File"]
+		}
+		,{
+			"name":"base-test2.js",
+			"level":"info",
+			"appenders":["Console","File"]
+		}
+	],
+	"root":{
+		"enabled":true,
+		"level":"info",
+		"appenders":["Console","File"]
+	}
+}
